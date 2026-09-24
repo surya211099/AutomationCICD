@@ -1,0 +1,8 @@
+testing\resources\ExtentReporterNG.class
+testing\SeleniumFramework\CheckOutPage.class
+testing\SeleniumFramework\ConfirmationPage.class
+testing\SeleniumFramework\ProductCatalogue.class
+testing\SeleniumFramework\OrderPage.class
+testing\AbstractComponent\AbstractComponent.class
+testing\SeleniumFramework\CartPage.class
+testing\SeleniumFramework\LandingPage.class
