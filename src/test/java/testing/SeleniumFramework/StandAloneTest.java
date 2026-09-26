@@ -18,6 +18,7 @@ public class StandAloneTest extends BaseTest{
 	@Test(dataProvider= "getData",groups= {"Purchase"})
 	public void submitOrder(HashMap<String,String>input) throws IOException {
 		// TODO Auto-generated method stub
+//To check
 		ProductCatalogue productCatalogue=landingpage.loginApplication(input.get("email"),input.get("password"));
 		List<WebElement>products=productCatalogue.getProductList();
 		productCatalogue.addProductToCart(input.get("product"));
